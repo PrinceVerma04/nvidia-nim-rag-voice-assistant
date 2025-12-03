@@ -1,0 +1,22 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore API keys or credentials
+API_Key.txt
+
+# Ignore unwanted python files
+final_new_app.py
+rough.py
+test.py
+app.py
+
+# Ignore pdf folder
+pdf/
+
+# Ignore audio recordings
+*.wav
+*.mp3
+
+# Ignore other temporary files
+__pycache__/
+*.pyc
