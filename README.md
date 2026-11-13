@@ -58,8 +58,8 @@ pip install -r requirements.txt
 
 Create `API_Key.txt` in the project root with:
 ```
-LLM_API_KEY=nvapi-YOUR-LLM-API-KEY-HERE
-CANARY_API_KEY=nvapi-YOUR-CANARY-API-KEY-HERE
+LLM_API_KEY=your_llm_api_key_here
+CANARY_API_KEY=your_canary_api_key_here
 ```
 
 Get your API keys:
